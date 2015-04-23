@@ -1,0 +1,18 @@
+{
+  "name": "utf8 wrapper for bower",
+  "version": "0.0.1",
+  "description": "utf8",
+  "author": "https://github.com/mindtickle",
+  "license": "MIT",
+  "homepage": "http://www.mindtickle.com",
+  "main": "./utf8.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "test*",
+    "demo*",
+    "gruntFile.js",
+    "package.json"
+  ]
+}
